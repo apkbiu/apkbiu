@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apkbiu
 - 👀 I’m interested in game
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning now
+- 💞️ I’m looking to collaborate on gamemods
 - 📫 How to reach me 2652733714qq@gmail.com
 
 <!---
